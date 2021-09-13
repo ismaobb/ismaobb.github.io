@@ -11,5 +11,6 @@ module.exports = {
             { text: "关于", link: "/about/" },
         ],
         repo: 'https://github.com/ismaobb/',
+        editLink: false,
     },
 }

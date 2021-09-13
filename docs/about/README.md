@@ -5,6 +5,8 @@ description: 关于页面
 footer: true
 ---
 
-# Power By VuePress @ 2021
+::: tip
+秋水共长天一色
+:::
 
-## 秋水共长天一色
+*Power By VuePress @ 2021*

@@ -5,22 +5,17 @@ icon: home
 heroImage: /images/fgxs.jpg
 heroText: 梵高先生
 tagline: 南京李志
-actionText: 关于
-actionLink: /about/
+actions:
+  - text: 结婚
+    link: https://www.bilibili.com/video/BV1qK411w7ue?share_source=copy_web
 
 # features:
-#   - title: Markdown 增强 🧰
-#     details: 新增文字对齐、上下角标、脚注、标记、数学公式、流程图与幻灯片支持
-#     link: /zh/guide/markdown/
+#   - title: 简洁至上
+#     details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+#   - title: Vue 驱动
+#     details: 享受 Vue 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。
+#   - title: 高性能
+#     details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
 
-#   - title: 浏览量与评论 💬
-#     details: 配合 Valine 与 Vssue 来开启阅读量统计与评论支持
-#     link: /zh/guide/feature/comment/
-
-#   - title: 文章信息展示 ℹ
-#     details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
-#     link: /zh/guide/feature/page-info/
-
-# footer: MIT Licensed | Copyright © 2019-present Mr.Hope
-# copyrightText: true
+footer: Created @ 2021
 ---
