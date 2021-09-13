@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.1610a050.js";const a='{"title":"Home","description":"","frontmatter":{"home":true,"heroImage":"/fgxs.jpg","heroAlt":"梵高先生","heroText":"梵高先生","tagline":"南京李志","actionText":"关于","actionLink":"/about/"},"relativePath":"index.md","lastUpdated":1631505967122}',o={};o.render=function(a,o,r,i,n,d){return t(),e("div")};export{a as __pageData,o as default};
