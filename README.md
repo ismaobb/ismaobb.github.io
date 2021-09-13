@@ -1,2 +1,0 @@
-# ismaobb.github.io
-blog

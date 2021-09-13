@@ -1,14 +1,15 @@
 {
-  "name": "vitepress-starter",
+  "name": "ismaobb.github.io",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/ismaobb/ismaobb.github.io.git",
+  "author": "maobb <maobb@bytetech.com.cn>",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^0.17.3"
+    "vuepress-vite": "^2.0.0-beta.26"
   },
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   }
 }
