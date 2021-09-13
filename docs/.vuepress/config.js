@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/ismaobb.github.io/',
     lang: 'zh-CN',
     title: 'Maobb',
     description: 'Maobb Blog',

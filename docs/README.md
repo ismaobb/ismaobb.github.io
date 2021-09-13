@@ -5,7 +5,7 @@ icon: home
 heroImage: /images/fgxs.jpg
 heroText: 梵高先生
 tagline: 南京李志
-actionText: 快速上手 →
+actionText: 关于
 actionLink: /about/
 
 # features:
@@ -21,6 +21,6 @@ actionLink: /about/
 #     details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
 #     link: /zh/guide/feature/page-info/
 
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
+# footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 # copyrightText: true
 ---
