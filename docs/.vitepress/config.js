@@ -1,5 +1,6 @@
 module.exports = {
     title: 'Maobb',
+    base: 'https://ismaobb.github.io/',
     description: '我的vitepress博客.',
     lang: 'zh-CN',
     themeConfig: {
