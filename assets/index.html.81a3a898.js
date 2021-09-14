@@ -1,0 +1,1 @@
+import{o as s,c as a,F as e,a as n}from"./app.02eba4c8.js";const t={},l=n("div",{class:"custom-container tip"},[n("p",{class:"custom-container-title"},"TIP"),n("p",null,"秋水共长天一色")],-1),o=n("p",null,[n("em",null,"Power By VuePress @ 2021")],-1);t.render=function(n,t){return s(),a(e,null,[l,o],64)};export{t as default};

@@ -1,0 +1,1 @@
+const t={key:"v-74bc627b",path:"/about/",title:"关于",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"关于",description:"关于页面",footer:!0},excerpt:"",headers:[],filePathRelative:"about/README.md",git:{updatedTime:1631526173e3,contributors:[{name:"maobb",email:"maobb@bytetech.com.cn",commits:2}]}};export{t as data};

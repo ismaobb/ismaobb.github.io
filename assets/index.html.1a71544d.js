@@ -1,0 +1,1 @@
+import{o as a,c as e,a as r,b as s}from"./app.02eba4c8.js";const n={},t={id:"水下秘密",tabindex:"-1"},d=[r("a",{class:"header-anchor",href:"#水下秘密","aria-hidden":"true"},"#",-1),s(" 水下秘密")];n.render=function(r,s){return a(),e("h1",t,d)};export{n as default};
