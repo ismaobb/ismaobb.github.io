@@ -2,12 +2,12 @@
 home: true
 title: 主页
 icon: home
-heroImage: /images/fgxs.jpg
-heroText: 梵高先生
+heroImage: /images/cover.jpg
+heroText: 2016北京不插电
 tagline: 南京李志
 actions:
-  - text: 结婚
-    link: https://www.bilibili.com/video/BV1qK411w7ue?share_source=copy_web
+  - text: 2018跨年
+    link: https://go.txca.ml/0:/lizhi/2018-2019%E8%B7%A8%E5%B9%B4%E5%BD%95%E5%88%B6/bandicam%202018-12-31%2020-00-57-313.mp4
 
 # features:
 #   - title: 简洁至上

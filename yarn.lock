@@ -203,6 +203,11 @@
   resolved "https://registry.nlark.com/@vue/shared/download/@vue/shared-3.2.11.tgz?cache=0&sync_timestamp=1631142010436&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40vue%2Fshared%2Fdownload%2F%40vue%2Fshared-3.2.11.tgz#01899f54949caf1ac241de397bd17069632574de"
   integrity sha1-AYmfVJScrxrCQd45e9FwaWMldN4=
 
+"@vuepress-reco/vuepress-plugin-bgm-player@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.nlark.com/@vuepress-reco/vuepress-plugin-bgm-player/download/@vuepress-reco/vuepress-plugin-bgm-player-1.1.4.tgz#c3107cb097f323a986ac6004b3dfb556901e74f5"
+  integrity sha1-wxB8sJfzI6mGrGAEs9+1VpAedPU=
+
 "@vuepress/bundler-vite@2.0.0-beta.26":
   version "2.0.0-beta.26"
   resolved "https://registry.nlark.com/@vuepress/bundler-vite/download/@vuepress/bundler-vite-2.0.0-beta.26.tgz#5d7b09f4c7d099df0b2c0055336c9d9c99fbe726"
